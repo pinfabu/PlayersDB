@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Players DB</string>
+    <string name="hintPlayer">Player</string>
+    <string name="hintTeam">Team</string>
+    <string name="hintNationality">Nationality</string>
+    <string name="textImage">Image</string>
+
+    <string name="textSave">Save</string>
+    <string name="textCancel">Cancel</string>
+    <string name="textPlayerSaved">Player saved successfully</string>
+    <string name="textErrorPlayerSaved">Error saving player</string>
+    <string name="textUpdate">Update</string>
+    <string name="textDelete">Delete</string>
+
+    <string name="textPlayerUpdated">Player updated successfully</string>
+    <string name="textErrorPlayerUpdated">Error updating player</string>
+
+    <string name="textPlayerDeleted">Player deleted successfully</string>
+    <string name="textErrorPlayerDeleted">Error deleting player</string>
+
+    <string name="textAccept">Accept</string>
+    <string name="textConfirmation">Confirmation</string>
+    <string name="textNoRecords">There are no records</string>
+    <string name="textAddElement">Add Element</string>
+
+</resources>
