@@ -22,5 +22,6 @@
     <string name="textConfirmation">Confirmation</string>
     <string name="textNoRecords">There are no records</string>
     <string name="textAddElement">Add Element</string>
+    <string name="confirm_delete_player">Do you really want to delete the player: %s?</string>
 
 </resources>

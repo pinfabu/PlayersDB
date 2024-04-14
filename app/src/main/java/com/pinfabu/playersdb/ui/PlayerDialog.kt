@@ -157,7 +157,7 @@ class PlayerDialog(
 
                 AlertDialog.Builder(requireContext())
                     .setTitle(context?.getString(R.string.textConfirmation) ?: "Confirmation")
-                    .setMessage("Do you really want to delete the player: ${player.player}?")
+                    .setMessage(getString(R.string.confirm_delete_player, player.player))
                     .setPositiveButton(context?.getString(R.string.textAccept) ?: "Accept"){ _, _ ->
                         try {
                             lifecycleScope.launch {
